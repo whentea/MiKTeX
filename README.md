@@ -1,2 +1,2 @@
-# typora
-a truly minimal markdown editor
+# MiKTex
+a truly minimal latex editor
