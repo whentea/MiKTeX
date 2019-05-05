@@ -10,7 +10,7 @@ Firstly, download your MiKTeX via the following link
 \end{document} %LaTeX code
 ```  
 % is a comment sign that will not be executed by the program.  
-\commandname{option} is an instruction or command for the LaTeX compiler.
+_\commandname{option}_ is an instruction or command for the LaTeX compiler.
   
 2. An Environment  
 ```
@@ -22,6 +22,7 @@ Firstly, download your MiKTeX via the following link
 \end{document}
 ```   
 An environment is simply an area of your document where certain typesetting rules apply.
+
 3. Adding a tittle page  
 ```
 \documentclass{article}
@@ -35,7 +36,8 @@ An environment is simply an area of your document where certain typesetting rule
  \newpage %make a new page
    Hello Guys !!
 \end{document}
-```  
+```
+  
 ```
 \documentclass{article}
 
