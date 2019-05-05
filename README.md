@@ -1,2 +1,2 @@
-# MiKTex
-a truly minimal latex editor
+# MiKTeX
+a distribution of the TeX typesetting system for MS-WIN
