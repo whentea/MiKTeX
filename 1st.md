@@ -10,7 +10,8 @@ Firstly, download your MiKTeX via the following link
 \end{document} %LaTeX code
 ```  
 % is a comment sign that will not be executed by the program.  
-\commandname{option} is an instruction or command for the LaTeX compiler.  
+\commandname{option} is an instruction or command for the LaTeX compiler.
+  
 2. An Environment  
 ```
 \begin{document}
