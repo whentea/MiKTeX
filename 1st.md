@@ -1,6 +1,7 @@
 # Hay...  
-Firstly, download your MiKTeX via the following link  
+**Firstly, download your MiKTeX via the following link**
 [Click the link on !](https://miktex.org/download)
+**Second, let's try the following lessons** 
 
 1. The basic layout of a LaTeX file  
 ```
@@ -53,6 +54,7 @@ An environment is simply an area of your document where certain typesetting rule
  Hello Guys !!
 \end{document}
 ```
+That's it. You've succesfully created your first LaTeX document. 
 
 
 
