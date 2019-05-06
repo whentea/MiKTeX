@@ -1,4 +1,4 @@
-#Sections, Subsections, Paragraphs, Subparagraphs
+# Sections, Subsections, Paragraphs, Subparagraphs
 
 Learn the following code :  
 
