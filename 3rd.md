@@ -52,7 +52,7 @@ f(x) = x^2
  
  **Excercise 3 : xxx.tex script using math package**
  ```
- \documentclass{article}
+\documentclass{article}
 
 \usepackage{amsmath}
 
@@ -95,6 +95,8 @@ This formula $f(x) = x^2$\\
 $\sum_{n=1}^{\infty} \frac{1}{n}$, not this $\sum_{n=1}^{\infty} \frac{1}{n}$
 \\
 \[x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\]
+\\
+I want this $\displaystyle \sum_{n=1}^{\infty} \frac{1}{n}$, not this $\sum_{n=1}^{\infty} \frac{1}{n}$
 
 
 \end{document}
