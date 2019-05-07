@@ -5,7 +5,7 @@ The most useful package is an equation, a typsetting math in LaTeX.
 
 There are two major modes of typesetting math in LaTeX.
 
-**Text script without math package**
+**xxx.tex script without math package**
  ```
  \documentclass{article}
 
@@ -26,7 +26,7 @@ f(x) = x^2
 \end{document}
  ```
  
-**Text script using math package**
+**xxx.tex script using math package**
  
  ```
  \documentclass{article}
