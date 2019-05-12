@@ -52,18 +52,23 @@ f(x) = x^2
  
  **Excercise 3 : xxx.tex script using math package**
  ```
-\documentclass{article}
+% Various Commands to present MATH EQUATION in MiKTeX
 
+\documentclass{article}
 \usepackage{amsmath}
+
 
 \begin{document}
 
+%equation with alignment, * to hide the numbering of the equation, \\ is line break
 \begin{align*}
-  f(x) &= x^2\\
-  g(x) &= \frac{1}{x}\\
-  F(x) &= \int^a_b \frac{1}{3}x^3
+ f(x) &= x^2\\
+ g(x) &= \frac{1}{x}\\
+ F(x) &= \int^a_b \frac{1}{3}x^3
 \end{align*}
 
+
+%Matrix
 \begin{equation*}
 \left[
 \begin{matrix}
@@ -73,6 +78,7 @@ f(x) = x^2
 \right]
 \end{equation*}
 
+% Common Equation
 \begin{equation*}
 \frac{1}{\sqrt{x}}
 \end{equation*}
@@ -81,21 +87,22 @@ f(x) = x^2
 \left(\frac{1}{\sqrt{x}}\right)
 \end{equation*}
 
-\begin{equation*}
-\frac{1}{\sqrt{x}}
-\end{equation*}
-
+%Greek Symbol
 \begin{equation*}
 \lambda
 \end{equation*}
 
-
+% inline equation with $, \\ new line
 This formula $f(x) = x^2$\\
 \\
 $\sum_{n=1}^{\infty} \frac{1}{n}$, not this $\sum_{n=1}^{\infty} \frac{1}{n}$
 \\
+
+%inline expression with \[ ...\]
 \[x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\]
 \\
+
+%with displaystyle to get full-sized
 I want this $\displaystyle \sum_{n=1}^{\infty} \frac{1}{n}$, not this $\sum_{n=1}^{\infty} \frac{1}{n}$
 
 
