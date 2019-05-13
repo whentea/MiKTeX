@@ -92,7 +92,7 @@ f(x) = x^2
 \lambda
 \end{equation*}
 
-% inline equation with $, \\ new line
+% inline equation with $, \\ is new line
 This formula $f(x) = x^2$\\
 \\
 $\sum_{n=1}^{\infty} \frac{1}{n}$, not this $\sum_{n=1}^{\infty} \frac{1}{n}$
