@@ -3,8 +3,8 @@ LaTeX offers a lot of functions BY DEFAULT.
 You simply add the \usepackage directive to preamble of your document.  
 The most useful package is an equation, a typsetting math in LaTeX.
 
-There are two major modes of typesetting math in LaTeX.
 
+Look these examples out !!
 **Exercise 1 : xxx.tex script without math package**
  ```
  \documentclass{article}
@@ -92,11 +92,17 @@ f(x) = x^2
 \lambda
 \end{equation*}
 
+
+%HOW TO DECLARE THE EQUATIONS
+There are three major modes of typesetting math in LaTeX.
+
 % inline equation with $, \\ is new line
 This formula $f(x) = x^2$\\
 \\
 $\sum_{n=1}^{\infty} \frac{1}{n}$, not this $\sum_{n=1}^{\infty} \frac{1}{n}$
 \\
+$$\sum_{n=1}^{\infty} \frac{1}{n}$, not this $\sum_{n=1}^{\infty} \frac{1}{n}$$ %for centering the equation
+
 
 %inline expression with \[ ...\]
 \[x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\]
