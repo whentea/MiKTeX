@@ -1,4 +1,4 @@
-###Here is the table of mathematics symbols
+### Here is the table of mathematics symbols
 
 ```
 ```
