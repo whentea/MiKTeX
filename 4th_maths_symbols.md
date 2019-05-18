@@ -10,6 +10,10 @@
 ## Functions
 
 ## Greek and Hebrew Letters
+```
+\alpha
+\lambda
+```
 
 ## Vectors
 
